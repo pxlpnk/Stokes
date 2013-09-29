@@ -1,6 +1,6 @@
 Stokes
 ======
-Stokes is your friendly XMPP buttler. Have Stokes serve you a [Google Search](lib/plugins/google_search.rb), a [random generated password](lib/plugins/true_random.rb), [save data to Redis](lib/plugins/monitor.rb), [the uptime of any website](lib/plugins/up_down.rb) or print a [kitteh](lib/plugins/random_kitty.rb).  
+Stokes is your friendly XMPP buttler. Have Stokes serve you a [Google Search](lib/plugins/google_search.rb), a [random generated password](lib/plugins/true_random.rb), [the status of any website](lib/plugins/up_down.rb) or print a [kitteh](lib/plugins/random_kitty.rb).  
 
 Usage
 =======
